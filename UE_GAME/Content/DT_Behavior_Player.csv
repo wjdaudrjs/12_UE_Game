@@ -1,0 +1,3 @@
+﻿,Type,Montage,PlayRatio
+1,BackStep,AnimMontage'/Game/Character/Montages/Common/BackStep_Montage.BackStep_Montage',1.5
+2,Roll,AnimMontage'/Game/Character/Montages/Common/Roll_Montage.Roll_Montage',2
